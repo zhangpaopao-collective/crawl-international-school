@@ -1,0 +1,9 @@
+{
+	"id": "84gK6jr49pbnQuP",
+	"json": "{\"id\":\"84gK6jr49pbnQuP\",\"url\":\"https://www.mi.com/\",\"loadedUrl\":\"https://www.mi.com/\",\"uniqueKey\":\"https://www.mi.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2024-05-12T13:52:20.292Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.mi.com",
+	"url": "https://www.mi.com/"
+}
