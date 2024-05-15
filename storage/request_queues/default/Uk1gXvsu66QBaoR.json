@@ -1,0 +1,9 @@
+{
+	"id": "Uk1gXvsu66QBaoR",
+	"json": "{\"id\":\"Uk1gXvsu66QBaoR\",\"url\":\"https://www.international-schools-database.com/in/kuala-lumpur/oasis-international-school-kuala-lumpur\",\"uniqueKey\":\"https://www.international-schools-database.com/in/kuala-lumpur/oasis-international-school-kuala-lumpur\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"Error: request timed out after 30 seconds.\\n    at Timeout._onTimeout (/Users/ardor/Desktop/paopao/crawl-international-school/node_modules/.pnpm/@apify+timeout@0.3.1/node_modules/@apify/src/index.ts:88:74)\\n    at listOnTimeout (node:internal/timers:573:17)\\n    at process.processTimers (node:internal/timers:514:7)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":5}}}",
+	"method": "GET",
+	"orderNo": 1715771442755,
+	"retryCount": 1,
+	"uniqueKey": "https://www.international-schools-database.com/in/kuala-lumpur/oasis-international-school-kuala-lumpur",
+	"url": "https://www.international-schools-database.com/in/kuala-lumpur/oasis-international-school-kuala-lumpur"
+}

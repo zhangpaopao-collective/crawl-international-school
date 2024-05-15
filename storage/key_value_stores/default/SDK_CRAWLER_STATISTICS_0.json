@@ -1,50 +1,27 @@
 {
-  "requestsFinished": 0,
-  "requestsFailed": 1,
-  "requestsRetries": 1,
+  "requestsFinished": 1,
+  "requestsFailed": 0,
+  "requestsRetries": 0,
   "requestsFailedPerMinute": 0,
-  "requestsFinishedPerMinute": 0,
-  "requestMinDurationMillis": null,
-  "requestMaxDurationMillis": 0,
-  "requestTotalFailedDurationMillis": 60988,
-  "requestTotalFinishedDurationMillis": 0,
-  "crawlerStartedAt": "2024-05-13T03:22:46.882Z",
-  "crawlerFinishedAt": "2024-05-13T03:27:01.924Z",
-  "statsPersistedAt": "2024-05-13T03:27:01.924Z",
-  "crawlerRuntimeMillis": 255087,
-  "crawlerLastStartTimestamp": 1715570566837,
+  "requestsFinishedPerMinute": 22,
+  "requestMinDurationMillis": 2480,
+  "requestMaxDurationMillis": 2480,
+  "requestTotalFailedDurationMillis": 0,
+  "requestTotalFinishedDurationMillis": 2480,
+  "crawlerStartedAt": "2024-05-15T11:10:03.443Z",
+  "crawlerFinishedAt": "2024-05-15T11:10:06.141Z",
+  "statsPersistedAt": "2024-05-15T11:10:06.141Z",
+  "crawlerRuntimeMillis": 2737,
+  "crawlerLastStartTimestamp": 1715771403404,
   "requestRetryHistogram": [
-    null,
-    null,
-    null,
     1
   ],
   "statsId": 0,
-  "requestAvgFailedDurationMillis": 60988,
-  "requestAvgFinishedDurationMillis": null,
-  "requestTotalDurationMillis": 60988,
+  "requestAvgFailedDurationMillis": null,
+  "requestAvgFinishedDurationMillis": 2480,
+  "requestTotalDurationMillis": 2480,
   "requestsTotal": 1,
   "requestsWithStatusCode": {},
-  "errors": {
-    "/Users/zhangbo/Desktop/paopao/crawl-international-school/node_modules/.pnpm/@crawlee+core@3.9.2/node_modules/@crawlee/src/crawlers/crawler_utils.ts:13:11": {
-      "missing error code": {
-        "Error": {
-          "Navigation timed out after 60 seconds.": {
-            "count": 1
-          }
-        }
-      }
-    }
-  },
-  "retryErrors": {
-    "/Users/zhangbo/Desktop/paopao/crawl-international-school/node_modules/.pnpm/@crawlee+core@3.9.2/node_modules/@crawlee/src/crawlers/crawler_utils.ts:13:11": {
-      "missing error code": {
-        "Error": {
-          "Navigation timed out after 60 seconds.": {
-            "count": 3
-          }
-        }
-      }
-    }
-  }
+  "errors": {},
+  "retryErrors": {}
 }
