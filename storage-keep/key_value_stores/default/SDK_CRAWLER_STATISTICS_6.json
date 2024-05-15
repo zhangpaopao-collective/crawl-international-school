@@ -1,0 +1,46 @@
+{
+  "requestsFinished": 3,
+  "requestsFailed": 0,
+  "requestsRetries": 0,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 1,
+  "requestMinDurationMillis": 1690,
+  "requestMaxDurationMillis": 2445,
+  "requestTotalFailedDurationMillis": 0,
+  "requestTotalFinishedDurationMillis": 5854,
+  "crawlerStartedAt": "2024-05-13T02:50:21.572Z",
+  "crawlerFinishedAt": null,
+  "statsPersistedAt": "2024-05-13T02:54:21.548Z",
+  "crawlerRuntimeMillis": 240187,
+  "crawlerLastStartTimestamp": 1715568621361,
+  "requestRetryHistogram": [
+    3
+  ],
+  "statsId": 6,
+  "requestAvgFailedDurationMillis": null,
+  "requestAvgFinishedDurationMillis": 1951,
+  "requestTotalDurationMillis": 5854,
+  "requestsTotal": 3,
+  "requestsWithStatusCode": {},
+  "errors": {},
+  "retryErrors": {
+    "/Users/zhangbo/Desktop/paopao/crawl-international-school/node_modules/.pnpm/@apify+timeout@0.3.1/node_modules/@apify/src/index.ts:88:74": {
+      "missing error code": {
+        "Error": {
+          "request timed out after 30 seconds.": {
+            "count": 8
+          }
+        }
+      }
+    },
+    "file:///Users/zhangbo/Desktop/paopao/crawl-international-school/node_modules/.pnpm/got@13.0.0/node_modules/got/dist/source/core/index.js:792:107": {
+      "ETIMEDOUT": {
+        "RequestError": {
+          "read ETIMEDOUT": {
+            "count": 1
+          }
+        }
+      }
+    }
+  }
+}

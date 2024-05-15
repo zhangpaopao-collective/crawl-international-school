@@ -1,0 +1,48 @@
+{
+  "requestsFinished": 8,
+  "requestsFailed": 0,
+  "requestsRetries": 0,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 2,
+  "requestMinDurationMillis": 1107,
+  "requestMaxDurationMillis": 1596,
+  "requestTotalFailedDurationMillis": 0,
+  "requestTotalFinishedDurationMillis": 10270,
+  "crawlerStartedAt": "2024-05-13T02:50:21.548Z",
+  "crawlerFinishedAt": null,
+  "statsPersistedAt": "2024-05-13T02:54:21.546Z",
+  "crawlerRuntimeMillis": 240186,
+  "crawlerLastStartTimestamp": 1715568621360,
+  "requestRetryHistogram": [
+    8
+  ],
+  "statsId": 4,
+  "requestAvgFailedDurationMillis": null,
+  "requestAvgFinishedDurationMillis": 1284,
+  "requestTotalDurationMillis": 10270,
+  "requestsTotal": 8,
+  "requestsWithStatusCode": {
+    "502": 1
+  },
+  "errors": {},
+  "retryErrors": {
+    "/Users/zhangbo/Desktop/paopao/crawl-international-school/node_modules/.pnpm/@crawlee+http@3.9.2/node_modules/@crawlee/src/internals/http-crawler.ts:685:19": {
+      "missing error code": {
+        "Error": {
+          "502 - Internal Server Error: ": {
+            "count": 1
+          }
+        }
+      }
+    },
+    "file:///Users/zhangbo/Desktop/paopao/crawl-international-school/node_modules/.pnpm/got@13.0.0/node_modules/got/dist/source/core/index.js:792:61": {
+      "ETIMEDOUT": {
+        "TimeoutError": {
+          "Timeout awaiting 'request' for 30000ms": {
+            "count": 1
+          }
+        }
+      }
+    }
+  }
+}

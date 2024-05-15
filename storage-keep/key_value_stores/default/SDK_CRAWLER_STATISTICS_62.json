@@ -1,0 +1,37 @@
+{
+  "requestsFinished": 1,
+  "requestsFailed": 1,
+  "requestsRetries": 0,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 0,
+  "requestMinDurationMillis": 3968,
+  "requestMaxDurationMillis": 3968,
+  "requestTotalFailedDurationMillis": 4628,
+  "requestTotalFinishedDurationMillis": 3968,
+  "crawlerStartedAt": "2024-05-13T02:50:22.417Z",
+  "crawlerFinishedAt": null,
+  "statsPersistedAt": "2024-05-13T02:54:21.561Z",
+  "crawlerRuntimeMillis": 240190,
+  "crawlerLastStartTimestamp": 1715568621371,
+  "requestRetryHistogram": [
+    2
+  ],
+  "statsId": 62,
+  "requestAvgFailedDurationMillis": 4628,
+  "requestAvgFinishedDurationMillis": 3968,
+  "requestTotalDurationMillis": 8596,
+  "requestsTotal": 2,
+  "requestsWithStatusCode": {},
+  "errors": {
+    "file:///Users/zhangbo/Desktop/paopao/crawl-international-school/node_modules/.pnpm/got@13.0.0/node_modules/got/dist/source/core/index.js:792:107": {
+      "ETIMEDOUT": {
+        "RequestError": {
+          "read ETIMEDOUT": {
+            "count": 1
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {}
+}
