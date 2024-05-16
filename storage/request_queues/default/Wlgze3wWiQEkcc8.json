@@ -1,9 +1,9 @@
 {
 	"id": "Wlgze3wWiQEkcc8",
-	"json": "{\"id\":\"Wlgze3wWiQEkcc8\",\"url\":\"https://www.international-schools-database.com/in/kuala-lumpur/inspiros-international-school-kuala-lumpur\",\"uniqueKey\":\"https://www.international-schools-database.com/in/kuala-lumpur/inspiros-international-school-kuala-lumpur\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"Error: request timed out after 30 seconds.\\n    at Timeout._onTimeout (/Users/ardor/Desktop/paopao/crawl-international-school/node_modules/.pnpm/@apify+timeout@0.3.1/node_modules/@apify/src/index.ts:88:74)\\n    at listOnTimeout (node:internal/timers:573:17)\\n    at process.processTimers (node:internal/timers:514:7)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":5}}}",
+	"json": "{\"id\":\"Wlgze3wWiQEkcc8\",\"url\":\"https://www.international-schools-database.com/in/kuala-lumpur/inspiros-international-school-kuala-lumpur\",\"loadedUrl\":\"https://www.international-schools-database.com/in/kuala-lumpur/inspiros-international-school-kuala-lumpur\",\"uniqueKey\":\"https://www.international-schools-database.com/in/kuala-lumpur/inspiros-international-school-kuala-lumpur\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2024-05-15T14:35:15.949Z\"}",
 	"method": "GET",
-	"orderNo": 1715771442680,
-	"retryCount": 1,
+	"orderNo": null,
+	"retryCount": 0,
 	"uniqueKey": "https://www.international-schools-database.com/in/kuala-lumpur/inspiros-international-school-kuala-lumpur",
 	"url": "https://www.international-schools-database.com/in/kuala-lumpur/inspiros-international-school-kuala-lumpur"
 }

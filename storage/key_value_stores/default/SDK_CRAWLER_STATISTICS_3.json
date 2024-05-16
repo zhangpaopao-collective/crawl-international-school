@@ -1,0 +1,52 @@
+{
+  "requestsFinished": 0,
+  "requestsFailed": 1,
+  "requestsRetries": 1,
+  "requestsFailedPerMinute": 2,
+  "requestsFinishedPerMinute": 0,
+  "requestMinDurationMillis": null,
+  "requestMaxDurationMillis": 0,
+  "requestTotalFailedDurationMillis": 70,
+  "requestTotalFinishedDurationMillis": 0,
+  "crawlerStartedAt": "2024-05-15T13:22:17.351Z",
+  "crawlerFinishedAt": "2024-05-15T13:22:45.134Z",
+  "statsPersistedAt": "2024-05-15T13:22:45.134Z",
+  "crawlerRuntimeMillis": 27795,
+  "crawlerLastStartTimestamp": 1715779337339,
+  "requestRetryHistogram": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    1
+  ],
+  "statsId": 3,
+  "requestAvgFailedDurationMillis": 70,
+  "requestAvgFinishedDurationMillis": null,
+  "requestTotalDurationMillis": 70,
+  "requestsTotal": 1,
+  "requestsWithStatusCode": {},
+  "errors": {
+    "file:///Users/ardor/Desktop/paopao/crawl-international-school/node_modules/.pnpm/got@13.0.0/node_modules/got/dist/source/core/index.js:792:107": {
+      "ERR_SSL_WRONG_VERSION_NUMBER": {
+        "RequestError": {
+          "00C02B1100700000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:": {
+            "count": 1
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "file:///Users/ardor/Desktop/paopao/crawl-international-school/node_modules/.pnpm/got@13.0.0/node_modules/got/dist/source/core/index.js:792:107": {
+      "ERR_SSL_WRONG_VERSION_NUMBER": {
+        "RequestError": {
+          "00C02B1100700000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:": {
+            "count": 5
+          }
+        }
+      }
+    }
+  }
+}
