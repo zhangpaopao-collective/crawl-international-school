@@ -1,7 +1,7 @@
 import { CheerioCrawler, PuppeteerCrawler, KeyValueStore } from 'crawlee';
 import * as cheerio from 'cheerio';
 import { existsSync  } from "node:fs";
-import { resolve  } from "node:path";
+import { resolve, dirname  } from "node:path";
 
 async function sleep(ms: number) {
   await new Promise(resolve => setTimeout(resolve, ms))
@@ -60,10 +60,8 @@ async function getAllHtml() {
   });
 
   await crawler.run(['https://www.international-schools-database.com/in/kuala-lumpur']);
-  // await crawler.run(['https://www.mi.com/']);
-
   for (let i = 0; i < schoolsLink.length; i++) {
-    if(existsSync(resolve(__dirname, '../..', 'storage', 'key_value_stores', 'default', `school-${i}.json`))) {
+    if(existsSync(resolve(dirname('.'), 'schools', `school-${i}.json`))) {
       continue
     }
     const schoolLink = schoolsLink[i];

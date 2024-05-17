@@ -1,52 +1,27 @@
 {
-  "requestsFinished": 0,
-  "requestsFailed": 1,
-  "requestsRetries": 1,
-  "requestsFailedPerMinute": 2,
-  "requestsFinishedPerMinute": 0,
-  "requestMinDurationMillis": null,
-  "requestMaxDurationMillis": 0,
-  "requestTotalFailedDurationMillis": 56,
-  "requestTotalFinishedDurationMillis": 0,
-  "crawlerStartedAt": "2024-05-15T16:40:16.000Z",
-  "crawlerFinishedAt": "2024-05-15T16:40:43.769Z",
-  "statsPersistedAt": "2024-05-15T16:40:43.769Z",
-  "crawlerRuntimeMillis": 27789,
-  "crawlerLastStartTimestamp": 1715791215980,
+  "requestsFinished": 1,
+  "requestsFailed": 0,
+  "requestsRetries": 0,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 4,
+  "requestMinDurationMillis": 6598,
+  "requestMaxDurationMillis": 6598,
+  "requestTotalFailedDurationMillis": 0,
+  "requestTotalFinishedDurationMillis": 6598,
+  "crawlerStartedAt": "2024-05-16T15:42:09.747Z",
+  "crawlerFinishedAt": "2024-05-16T15:42:26.411Z",
+  "statsPersistedAt": "2024-05-16T15:42:26.411Z",
+  "crawlerRuntimeMillis": 16680,
+  "crawlerLastStartTimestamp": 1715874129731,
   "requestRetryHistogram": [
-    null,
-    null,
-    null,
-    null,
-    null,
     1
   ],
   "statsId": 22,
-  "requestAvgFailedDurationMillis": 56,
-  "requestAvgFinishedDurationMillis": null,
-  "requestTotalDurationMillis": 56,
+  "requestAvgFailedDurationMillis": null,
+  "requestAvgFinishedDurationMillis": 6598,
+  "requestTotalDurationMillis": 6598,
   "requestsTotal": 1,
   "requestsWithStatusCode": {},
-  "errors": {
-    "file:///Users/ardor/Desktop/paopao/crawl-international-school/node_modules/.pnpm/got@13.0.0/node_modules/got/dist/source/core/index.js:792:107": {
-      "ERR_SSL_WRONG_VERSION_NUMBER": {
-        "RequestError": {
-          "00C02B1100700000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:": {
-            "count": 1
-          }
-        }
-      }
-    }
-  },
-  "retryErrors": {
-    "file:///Users/ardor/Desktop/paopao/crawl-international-school/node_modules/.pnpm/got@13.0.0/node_modules/got/dist/source/core/index.js:792:107": {
-      "ERR_SSL_WRONG_VERSION_NUMBER": {
-        "RequestError": {
-          "00C02B1100700000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:": {
-            "count": 5
-          }
-        }
-      }
-    }
-  }
+  "errors": {},
+  "retryErrors": {}
 }
