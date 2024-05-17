@@ -1,6 +1,6 @@
 # 定义镜像和容器的名称
-IMAGE_NAME="crawl-international-school"
-CONTAINER_NAME="crawl-international-school-container"
+IMAGE_NAME="international-school"
+CONTAINER_NAME="international-school-container"
 
 # 检查是否存在同名的容器
 if [ "$(docker ps -q -f name=$CONTAINER_NAME)" ]; then
