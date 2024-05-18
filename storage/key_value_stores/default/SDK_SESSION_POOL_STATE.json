@@ -1,9 +1,9 @@
 {
-  "usableSessionsCount": 5,
-  "retiredSessionsCount": 0,
+  "usableSessionsCount": 3,
+  "retiredSessionsCount": 4,
   "sessions": [
     {
-      "id": "session_7vsNDgMlSy",
+      "id": "session_a3czngYnX3",
       "cookieJar": {
         "version": "tough-cookie@4.1.4",
         "storeType": "MemoryCookieStore",
@@ -14,29 +14,49 @@
         "cookies": [
           {
             "key": "_isd_session",
-            "value": "23VJDRHmOxbIg9fDv41IVRwMxKg51W2wpqcUL3EKooP0DHFMs4b34MTSsc%2F%2FoJVV%2FzJyyT9HyL%2BRPpe1GBHBWyxEFMh3frc4fiv0NYdHiqDL4YfkJ4p%2FK47kZg37jvyELxENxJOYnZ6F%2BHqmNWHMnFybZBx3bq0mEKMChWwy5J6XmeV0QQps9vheAAwvn2LANCcu3ID3Kla2gW4ey0CWJ7Wg7fujruNHXSNLxVOs0B6V0CXeLPJS6XYIvBiLAxXecgxu6MOH8X2wSJiPqwXxq8WwdRJf61eXSF4B086DTtiM%2B86CiY8FLmIgYyQlLzxdKfIcC9eUXr3BXpN7hPOHLKDHyx%2Fw4Tbkgwhyk91XyPv65YVcmeAsbgiNYibvB99jygQH1UH%2FemMneA9gt%2BBjOpnurt0t4ZQTHvJvQ260BjRY6faRHZtUrhN%2BpLF75ZYimfb%2BYVbDNCeOaUI15QX%2Fs4OlYBx%2B3%2B1GaE9WeDAYcbCq0dPMAi7xtyk7c4HLa%2FwE6LmDfYzM5hh0SgJosUih%2BrmohZeRJtZAU8QW95aFp32h2ooZ5Ae30Y%2BDicFCyJQlfAjo6%2Bq9yba%2BjSInIFoFOcMarWCE4wAPOSOC0HRKOCMgOu0rvoNhSrxn98nARQQhgw%2BjyBGeqxUzMdtwoPTFbQXFdrjLKeA05Foiezziwjbo1Z51QAntI3SKXiJ0mMc3Or3pZurxXmOWT3tnIdLxT9XIMwY6zvbAJMIXVRuIDrKbLgBEzdSVSZVFZqx4iK%2F0Zcx8nmSP5tL%2BR6QNmD5wZP5bogKuEJ%2FSO4Zncv%2FbsaIeSR4GI2%2B6iL8glxWuaLMmDD7sG23zRV9K%2BDeGx%2FkBksfI92J%2BZh8EPsBtkSr0PtEFxEUctt1%2FeHPqFhbgrqYtxjnIsiFmj4gMoTY3UqfB8eZ%2FyTI5Z4bKcCAi9cJZ2g%2FfNlzHGxOOayIJcKj%2FmbscciYEHWUvmCmLrh9egzsjnhE0oxl4UZSdlDkVD1CRnsMZUiBrGntc33NSmGlwiEt5OjapRpP%2BF3XAyGL6faHP7lz3%2BBEPjwFdIWQEEPLctVrVA%2B1Ykl8mxpQqcyBAk7HHdeIInfA%2F54PZ3ZOXGbbxkCirjUDHRRaqwqMqMQ4RCQu1S08vnE4xx6YsjzAkLE9QBKsnxoJvluKISJ37D7WzT7KGeqdz55KoaEDmfwzcTQLMvhmt%2B0dgF9iioxDNbRWQOmlXXrmjFtFOrZAZqFpKCjQMGL4kKETekX9Kg8vi%2BvH4xJYfUPw1Qvfig%2B%2FYfZyXjvhJLJik6aiJsK8USY6AMco58jQAOUlwNPDUlQOCiVdlXx7EUTJZpNw7XulnhqlfW597FdIg%2FOlr95CCN3JQkjhbJsVMMUYampkum9noYh2INaCTZULbUwq5P2xdGnflO3fKP%2Br84BhR--dgWEfaokPMNeErhR--Xn0fQ1tUgp2r1ubEXrHWWA%3D%3D",
-            "expires": "2024-07-16T20:38:23.000Z",
+            "value": "e7%2B607KIs5I%2FqEmPGNUHjxewEFHo8YOZ43F4H%2FPYAHbw3od%2F349ic7NlwURe8oDnfKAJOKkArPSSmL4I8Gq6LluQc63%2F6ajOYuqybzV4cAD3YmPwLkDnYvfcb6p81fa7fEkMfVIwHiI%2F6dzQuNj2XovWemaqP%2BJjCQQvHNwLHvhGyZ3tyjpXUClngy5Y5u6rE80l9BKO%2F0DE9qqJIj70DEpq7eIZQ1OiDRZOpumlBb0QtI2jb2RZmJC7Vb3uFgmYoTkT3BbRBAfmqzXJByCfWTbVWaXWgSxjaRa96Lk%2BwP8zPdLT9RFbBbjeYF%2FXvO8FM5FoUjlQAuFdsKT35VrlhPnROZRTjzgHDFaRpLoMulj%2FxxRFgwQzXa41TtHl0VXnG2uZzWT7COaJyw1OyE04mBJk2b8lKIpKjgUeyAdhNjUkc58K1e6tZUDnJRT8gMr4uzfuN7cvlLywYx7u69cb%2FLeF7%2F6D9nV5TOw7zw%2B80Gn2mmTUDRMbbsGlPkotV%2F6KYOu53BHEuJJ3aAQQ3Po91Y6Gj7hhFKj6VjOqAXIMdRhfI07Yc28Co%2BYQ%2BruUuaqrsSrH1V3PKULagWdxg%2BFCXpEuWqAONLOtYH%2FrcKlw8IqMDlqF5NT6nq9lab3wuI1w2xotyDQo%2BEDGbRroaQtPK%2F6FeN8bDyQu6kz%2BcoCL8uXKXSiS4rLilo%2BZ8LgIkYUBE41lQpsrGQOXLiQXxwCCp7jTOetdh%2FKnHrpmYnAiJ%2BfTtpgPHWAdBnwqZbpD%2Bw2r9KAf1pROUwkIPhJ1YExkAHHycbVATkHsSwuWVndd5hxc9bwze5%2BUMXpX6J7VX9OzsDkABE2x5iT64DKBKuAdqiwBJlYX6DRdD%2FIjsX40jlNWTGJ0ag9adFEBU7JykYnXuJzeC9iwmJweqZLBvrrKm5f1qBoCBxjnc3%2Fx7o6z5i4jUCoJ2rH0NBVJPsj7TzY5lqKpUSlAvmhmke2%2F8Mex7YkRE09%2BiUgIT8sPAr%2BKmadC9MeuPhA2jvNxiqN40i9OIoCZlrDXLWYK72Zg0WZtGHTzwrBZHBWyG0c%2FpLGdKtMTX66U9mwCJly45ljMrassaHFGnkNGyR0XiceiDlXzSzNhXxEo%2F%2B5VIEKP%2Fcc%2BcNJMUrGbbcaiFkNYw79zxI3yI6fmXoBdq0Fhau%2BHXdPsZK9kg02yiH%2B%2BrcjX23PKmo5hT3Nj%2BdzqIhCvuFN%2BFuaMpA45bPDGXc7W4YEUfgdEOdy59FKlx23Ohn6cNlQ0Y%2FI1kW6j1VYf8XCbyw9QJFL3EH3669QsaCczCPyQIhILYWY7E4t4wF1triooOL4PprCUIDWef3Kaoq%2BRflYv8eYlNQ8MHdHbnDZFl1AYUXstyRx7IwY9tUH9TG4pO%2FjsCJPVMP5r6AURREag8Agpwp%2BkVuNeJE7s1VfG--A%2FSGJOYv5Apw70S%2B--BjQ5vCoBiPDUttJqbr%2FiLw%3D%3D",
+            "expires": "2024-07-17T14:37:06.000Z",
             "domain": "www.international-schools-database.com",
             "path": "/",
             "secure": true,
             "httpOnly": true,
             "hostOnly": true,
-            "creation": "2024-05-16T20:38:23.881Z",
-            "lastAccessed": "2024-05-16T20:38:23.881Z"
+            "creation": "2024-05-17T14:37:07.795Z",
+            "lastAccessed": "2024-05-17T14:37:07.795Z"
           }
         ]
       },
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2024-05-16T21:28:22.003Z",
-      "createdAt": "2024-05-16T20:38:22.003Z",
+      "expiresAt": "2024-05-17T15:26:42.464Z",
+      "createdAt": "2024-05-17T14:36:42.464Z",
       "usageCount": 1,
       "maxUsageCount": 50,
       "errorScore": 0
     },
     {
-      "id": "session_eHFXbQele5",
+      "id": "session_GSrGNdS1E6",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-05-17T15:37:07.915Z",
+      "createdAt": "2024-05-17T14:47:07.915Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 2
+    },
+    {
+      "id": "session_psegaOMgFP",
       "cookieJar": {
         "version": "tough-cookie@4.1.4",
         "storeType": "MemoryCookieStore",
@@ -47,29 +67,29 @@
         "cookies": [
           {
             "key": "_isd_session",
-            "value": "w%2Fm0tEI9gOU50LVwv1r%2Fft1wiB%2Bdji7l%2FjHL2%2BcINNKWMs1Z3sI8hbTw1Dw6pyLCPCzqSv8ltE0JB1l3VYq46y7Ddh%2BFdyhnyHKqchLLDTF5U1zTQpTkrKD01AqlLf8xy3RZEtb1ER%2BzgM9e7%2BO8UUJfXUOCpa5l0PWRKm993g85uHBsIkTjCJ7wehQ%2FYjGcFVeiWKDFT5zN%2Fx4yujNPaobH6vJCK%2Fkocx9eXc4TyZbGsC7iGJUEEdl7wyJsaqNZIf8hEpCJLo7oCjcIXIpD5DcFSFVA3JNjABq1nlTAZnKhXCsnCVLDmiFQFhfijTXdfOwkuB%2B1U2XDofMzBoUk7380jbMDEMEU7HJUNWavwJeHxZvS6XK5744klN128ExbeQ%2Be0763bUEN2R1GII1v3f48WPXBmKZrETOfIhG6euTporRRq9VprjK3gt9ndgzZGneVtOFuxx202jQlqGnlyvP3TCWaiIpKHLZMN%2BCwyqFtdevA4CvenLFg2xsdZYvtvWNbRk8tQNtDm6osfZZMeUVE2NlJHR9t3H635Ye0Fn11LFyjVmIWEPucRzoZ1n0US6OcvzZvFdTw0w6gEhlb2amvgG8V7UIwyXJYNUj8m90AZupIGAv8MD8Z3hOCcMo%2B0YiBD%2B352Afk9e9EGu5mPYkLkyIs7InSNfGiUTr6B1HPmYpUF7SFwmvvuZcHUae1chtLZYBjSSqMgzw2pU2oK44r%2FU9I9z56rUYYpGSIgnuReScz%2FTinH3wMVpfX2cw%2BG3TwOF7gM8dZGz774Ke5qZ5yQUeKFMQaf3lzZiGyK4z%2BWeH3OKupsdVJS3hfl59HuqefPSU0FEkxnhbKpZqFSBl278l2V15XgFPDuQncUPD8ZAQyZwlmz9j1GgetDl2NYnfia8e6b%2BLeihpHAqcnaBtKFsimbmJR5Hc5XDCVRC9PtTwAAAnHRLC%2BZ%2F0m8g1sybNKRjuQVL3UqOQdFVtMnrKMQQfqHwsA83Wk7madW4BYvye410gBVX21fpfQX19oJCq0w952NRu9YQR9uW7Ul%2FtxOMLhoGj2Muqxy7%2F3KbdoI5WTOyWjq5BkkABuzG0NAMykzA3jKAD3xwVCIJw8ksj%2FE1%2FD9PRN%2Blq1aYkQnXNfAY9mtVu3qnmsYJ%2Fa9A0gia5CsxSJKqX7R3INS34lnd1owSVGoDwD3T8vdZT3lzHWF4ELIiJhMjh66fC6l46cq06FxSH%2BaPsmg4mAcGbsXlhbQ%2Fk%2B8Vp8gq6GF4dWA1VwB99NX0xBa1g%2FOG%2Bd8fL41f6q%2BN49wZclm3XLZnZbexUWUbUq3Hbp%2B7ptyITR%2BovtqO9KPSU%2FZf%2Fwe3466mfufpwWJqxUqoI%2FHirZHhm6c89GEokRYHRHCyZqoJd9%2F42aeuBFf5NginBdwjZHr7iLc8aJ63IzWm0%2B--lLUIDTfcMpBr%2Bmdq--O37VOB4mC3TJArz0KcKqrQ%3D%3D",
-            "expires": "2024-07-16T20:48:35.000Z",
+            "value": "3HQvvku7raPwsQLfCIVvjTZC%2F02YzRWxagvCX4n9vZ3RtxVX7zwADrSaJhecAuOpwNqCZXPcQoUKFfGAohXw3de%2FzzcjcCde6gkAxpocdimWUtGA11Z4ZwUlNs4cvR1RHjnU47%2BCgHYJoppL%2F09K%2B%2FU3RQgQ%2FGSuY7dW3%2B0oCcL1H1zrfbZhRPatbpYPz4vMcW6a5%2F9P13%2BV40vSyiSMC2tFrMjHFsgB3mE8vcg4r%2BgbNxRT2Y0JTx6wd2DbC2EjHJz6msgFhoYdZFeM4Mix26r8j7lgV3DEEvCc1lqSKP9Jv5jlfZmkStMMuIY%2B%2BrHZu1s0UsKi%2BKHStTdEWXQzfkoI31Z8Bz%2BwIcvGz5ugg%2FCpUgkIADU2IqiD32sMg2TTPsUhrdM34pphArOrGFTcHRHvpMvr3Pn%2Bd15HLYnOERwE5%2BCZpnsYfq3KA7C0wFQwBIWEb%2FShe%2BlNIt5dTo9WkQu4Upl7ixxxSjIlznxzP37YCdPULMVAGo8N1dNKcbEQ7NE8iXFW%2BapxfUBCh8ffR1B9G8KR4nMm3n5PXT%2Fdy4fAJTQ%2ByMQ%2F8kL4JZXpKNznIl3sBMnG%2BH3gdL5A2hCuG3Yf%2FIm%2BdACbnCyFeZHhMdEq2jdHCgrEKseXbQJE90LVJvkvG2PeHga6cmECkiTsArhAYdJaIiKUoaqp3QmFFTbuGbpWXlT6qhvH4LqVS8xBrMiYtL2Q7amFvb2kOBaS2axbgjfSBgbtVnhtbiIoGvioYUKM%2B06tomUXPCk4cqtpTc%2BdoBsR%2BOng8a2awRG%2F3z72JPiY0kJtePbGg4pDP3axyzS4RGIeE8VR6i2acb8MogCZ%2B38Z52DVqUtwejF%2FdgH8flWT1WrjmqWyazktYi7zMTykLbW89l58VCzY7WdehIg%2FZQWyFrpYji1am4Yni3BuuJym24e6ynwEo4WKzYAUTd1fLz%2F7SZ8rXsOLzGjqUmV1P3kpv0xfKVoVw%2F%2BKpd5MrKcrKJjoI15rDaSwhtk63pg%2FV5kAjf9wW3%2FolrwFx6GjFHuHIPLATaqfH7kWX7Uy4oRjcBZQbLh20VtOzVTGNWoXb0LDnxaI0xfiiz4TTdxzgLORtwtL2zQLKWx5Uo0YxTgbk6hJybhq4cEXEi7nOgpBmDv%2FK8F9EWAFDfwKG6IxwoCIRbYX2ZqnQRVvaoEFqcVK%2FBynDxqrGuH7QsJDkBuMAqffeLu47%2Fgw%2FN5nM6J9D5gy8rbvzNjdPPlVrR4V1fEpJoHz3yTC9DU8HWnUHzlXhZHBWAIO9xlOnphTR3xMFduU8XrXdECiMZFW2v6blB27%2BfzN9pXKc2Hn1s40WNURw%2Fqtyq%2FvyhT7Sz%2F4lUcg%2FLlgy1kvyn68vaC%2BZRSxALgixuA6IgR%2BiH4AvpmylAbCnkjkb%2FM1pXSxCZ4DF9RlXEd9VwoG--efna%2F6VrcqApXYUU--OFYIh95%2BNAfaqc9sAf0zMQ%3D%3D",
+            "expires": "2024-07-17T14:47:41.000Z",
             "domain": "www.international-schools-database.com",
             "path": "/",
             "secure": true,
             "httpOnly": true,
             "hostOnly": true,
-            "creation": "2024-05-16T20:48:35.714Z",
-            "lastAccessed": "2024-05-16T20:48:35.714Z"
+            "creation": "2024-05-17T14:48:10.920Z",
+            "lastAccessed": "2024-05-17T14:48:10.920Z"
           }
         ]
       },
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2024-05-16T21:38:33.989Z",
-      "createdAt": "2024-05-16T20:48:33.989Z",
+      "expiresAt": "2024-05-17T15:37:41.071Z",
+      "createdAt": "2024-05-17T14:47:41.071Z",
       "usageCount": 1,
       "maxUsageCount": 50,
       "errorScore": 0
     },
     {
-      "id": "session_hh7a4vbJH0",
+      "id": "session_uCjVn3dnXs",
       "cookieJar": {
         "version": "tough-cookie@4.1.4",
         "storeType": "MemoryCookieStore",
@@ -80,29 +100,29 @@
         "cookies": [
           {
             "key": "_isd_session",
-            "value": "VOFxW57kjCj3n3N2UULWzFGv2SOWUP5Ow1FIor1eyz5JqvSF%2Bk5hgnTwP8tv5Elsztf8zqmh%2F0Yoe%2Fnz6bbtkF1zMywVH3Sba6yDZOa4cMBh1ceo463nqAgqs1Bk2T%2FF55PyxrH0gg3RA7SMqzr71%2BR8gMPiEV1ieYZp9Pat%2FJtEtKw%2BFOYu3QzTzNTZZttJX5DN1vYbH%2B3DPDUroc7NPgKb3WJROYmZEok5vAA8iDLTuMAnP2ECcy8yHhOpw9Gbr9aUlOCgn5NJs6Sm53OmtVz0xRV7wN08hRrdzS6vboSRPU0g8P4elNoZV%2FU%2FPkaiwwmU2OD0ntYntYkKnBjZ3CKWyVkutmk12gzyzzdP%2FAIR%2F8%2BTmTOuiTY6q39GyKBq6y%2BkP%2B4iHk1CGsyKnjCIUqBehv0CVFIjgvQB0dbMvsRuVIxYWTMaeY3IVAeyvfWYdhu6uUfc6M9eAUTgIA268EBd6tAiKInWnxh%2F%2BsfvpJsj4DsQJibSJLFr1eLp8E6g7xjy%2Bk%2B5AFQ0JH%2BLwL3rM3g0SYTDQ3TTA82lY049v0IyDrU75fwOmjCKaCu%2Bc6oHvB721sr7f1F4cdzszeB86eAwwPc5zhNy8gcQxVa900UZByVYB3cj0DSqZwsAUDFOdQa%2B84WSJBGUGyi6xtSFl2c%2FPm1fHJHjpTT0Q0daBNs4wDGjBN%2BuF%2FlWClvGD4zmiIpNIPUBsSEPUX9shwIT1YUk8x6YiOot9wrW0BRfEeQOYrCs%2FZ4asdIqZDJOf30BpsWlVo3FceXhINnWd8ypjKImELX0Iq56H4ki%2FmKpddmu6xrVpK%2BAq%2Bss37e6boeht0knmosbHgpXJ3NzbLkYewYYRuAiPZ%2F8%2BDUCZm2r7Fp%2FsJVVIbSLYi%2FujOAXZKLkPQDYywvONIaigmpxDTWWeDbyhM0cL5RYT5Ojy0rUjqIQe1dDE%2F1LKu7Jaw9NVlFrUsYaq0dn%2F2geNqQeVCANJSeV0zqucE7BhDNG%2FZmOLJSp9c1e03WoBrwVlnSaNEzdvxicHFG1nDsWm6iymVqIdVBR8fpqabyWNLG2tu%2Fh21YjWCv0szkHJPEl%2FgRLfOS5gRKn3VTWFJjhFNZUQeRn4wXeibw%2F6loVBAD54mpaeerFsU0PtAUvQUw92eHw0vF5jXZ7qXUqpdNNsRRgHsNaPS2aIN6ZyRUO3NfJS24F6%2FjdpRjZUKpvqBMP3WpNjsGMJa%2BNw%2BWi%2BJGtcCZXdog10UdEFzTJ%2FMXbDbnNxmW4NdJ2cHHt%2Bighn9DfXDBNPMWAs2Wjk%2FJzEx3aXnl99RP7XLqq0DHSLdtjx8EH6SHQ%2BBOZQonMsA3pSZM742N4tzTUO%2B08PvdvzIAwa6O7Omb1jInvImNsuGaraNGxCmiFEuezNrChYVQQh87y6PH8EyJoK6f5bLMeNOv1--3ZuDPPBrvlceczId--Yzr8%2BLiBQKwq%2Boa4ELxQiQ%3D%3D",
-            "expires": "2024-07-16T20:58:47.000Z",
+            "value": "%2Bfpdd9Gcs%2FPELlXHo7uIydWNcuKkvvBBk2NXaqPorCcdQCXAb8m3URjCfwczRU0dZw8MAwcMNNPlqD6NbJ5vhvNvxHRuQweTMYbGhFLq1fv1KPdR5qaVbBdJGnwHl3cI7KPXHlZPegPvNJ3jaeYUt1cOrwk9KMnuVXvichfIoGn%2B9bvUuqeqarZs%2BlIL%2BmVCjsjAb6JyWAf5j0A9cdIH0FSpJ6NcynaayHGqQ4ZagH%2FJd34wKvzFbLNW6SHG3XyaseG5R3yKdduuvfEzheyEp36aVnEY0c0rfdhfiEZSntsFgPd5JDOx2vxijsf8vCnHQHudCqO9csgBbwm7DHh4eWb%2B6dBo2PhLGb3r5qHFzXtsFMD4xAwGj6D79Y%2Fwb9nwsI%2B4LK%2BZC7exyL0ky4quZzsJ6EHD9e3WOk8z8rL%2FpyI0rNKdPBW9p4YNjGVvL4spjQfMSP8KyIUdtUwmh3AmrsVEij%2BxIWuuT8BBc2GV%2FBHaydApoe3xgUttNCyPPE8v2fWbHi2UIeM7%2FUPKq%2FKY6zjbwS8GN5Bvn6%2FQwlAYhnvmlLobHdfR6oJBu3z06vQKUCbDEZuGIvD9Hw8yrS17Km3H6abm%2FQyWZjEe13lQqUa8%2BN1gLWVr4NvWu9TJXnWBvB8ZbUftksW8r2j8EEEz3rtImXXlE8AkJesXdTGG%2Fc6rUQA40r2eAiiinpkmqjo%2B%2BEILoyqeymjQxWbLQGk0ODxT%2FkQp272R2iDWAlKAAOozrLFil%2BWLWaYS8u%2BYJ9oYBHK6GOyxghQ8XbMBPubzuqi8D6BJT3pbuJnJGgMJtLSd%2FsIJSRUHLW3X%2B7e4J6DuZHGUlvAnkn6Lt9pFIjhBAm9mbUm92dPsOteFIie6X%2BfdB%2FdyKe3M4nTU%2BC3LlGrm9Br1Da9HMmk%2BkN%2BO8rcV4y%2BkC0HGqL2EDBMFpeYXtr6mMieNsbtFqQ%2BiA%2F0W4JWv%2FrxTcXxvRI8KVIstSnNlJQQSNJw%2BkiyoMJwd0SOOXQy%2F4usRgscDqqNB8Ewgiz994yCGwVL2XkWyCGlk5n%2B8QsQkHcpPGx6G%2BIwyiy68Pt1ppGEQI3%2BZzrw0Myv%2BpINNhXs2KJvEnUp645Yk9%2Bh7UTi3ZJQuXSgZgONPd4G1O8wiTHlNQ7%2FlEkLtGkXxqkEJ1ANtBDKKJmTllkt0uWUf3FbvqoRLDzmIrkdvNuFKzLRQO39KF1MfMB2KOh06vf8AugqtqQxk4PmAcsKV4mzF4X8QA8K1pju0A7fgvQLAPRxnzMwUwPBZiiCqKbb3bMcDsf8yMy3bHtjxtOlbRwW%2FK%2FB8y14xcrLSIf4gmmZCU%2F2UWTViNm7u2NGVsjhSfBP367%2BYJBzSl0nr01r7CtXZes7gD9JpKe0w5ucmoaE2uY2SrtffqGHjvxteY0rX%2BE3JyKkoq9lT%2F7XD--sqwHoF8%2BqFOBXCR0--WT%2BEg3e8TOj6%2BzmwzXWjdg%3D%3D",
+            "expires": "2024-07-17T14:58:14.000Z",
             "domain": "www.international-schools-database.com",
             "path": "/",
             "secure": true,
             "httpOnly": true,
             "hostOnly": true,
-            "creation": "2024-05-16T20:58:47.772Z",
-            "lastAccessed": "2024-05-16T20:58:47.772Z"
+            "creation": "2024-05-17T14:58:19.140Z",
+            "lastAccessed": "2024-05-17T14:58:19.140Z"
           }
         ]
       },
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2024-05-16T21:48:45.777Z",
-      "createdAt": "2024-05-16T20:58:45.777Z",
+      "expiresAt": "2024-05-17T15:48:11.051Z",
+      "createdAt": "2024-05-17T14:58:11.051Z",
       "usageCount": 1,
       "maxUsageCount": 50,
       "errorScore": 0
     },
     {
-      "id": "session_mX40AXXzIA",
+      "id": "session_cLZ279bluR",
       "cookieJar": {
         "version": "tough-cookie@4.1.4",
         "storeType": "MemoryCookieStore",
@@ -110,32 +130,39 @@
         "enableLooseMode": false,
         "allowSpecialUseDomain": true,
         "prefixSecurity": "silent",
-        "cookies": [
-          {
-            "key": "_isd_session",
-            "value": "B1mQJkDTS2kbLgJ5aBDyqr4Jtuz3EGAt7uasJP9dDXpOki9oAjzpCmaaMB%2BmWnNLbS2pl6FG%2BgCX2%2FfqO7AHqc1Y%2Ffo9oFrJHukwx9xJyGXGGFK12U7dJAu0uIjgM7pWIagaT0QnHIT%2BBeIesydXgDBnAjrBVQ8Ee24t24vmZ2Mo%2FT1dv%2BMN2Fj13ixwaDE7dJMlwRiK8U9nNpmGEwNKa0hr4K8VRn5xYv5NaqqYjmk%2BjMnpcvIsc5BH2yTWyDrcMAopsZpKPvx9UzAPRenxNdRV8oR9EJr1Tcd7OLgRA4ZVJWb%2FCbn3ypj3ssROSAJ24KmI2QqWXpitO%2BjRjVSKz9mTvYWjXkaG8JwCkGAcVSETlvCPHD%2FNI3QrqgklC%2Byj5rA77u%2Bgbn6ugVqte%2FSPaL7GrtlUmYXZcPXO0eCi4ei%2F7%2B2VBmcNjSHVJus6yBxCmN2MzTMnr08coZ3JwTLdodL%2BMjfVlPMmuXNIpkewh6a2u08DjBOt7nQynf1VQXQ8TlvOgGfKLORwyKs%2BhJkFa3WJgawC4AwtNvaDBy2mRGyL0TcKFFDIlZ68fZTvj%2BdBD3Amu%2BAJpZBVIY7ulr%2Fdp8%2BcuSz8twl1u67muS1%2FtGEgyQUOVI7%2FEkrRnCh9%2FwYXpM6GwDSQtVBT179FuYKLhCLxOtORZxgulEW3NIPr4ChO1AAWtWNbfJ2Om5gN%2BuVUHX3B9Qo%2Bmn9S8W2T3RqvAWtE2lBTce2CfkxhACJeSMyL7XLwVu6JNlzLCLrFdM3JPWV6RwQkOF4gI9mC6EUe9QES7FbUM%2FDkblHkOEioIzZnp0oYkRV27X4rsWk81UJ1neG%2FK1bq5JsV3rRRyUg7Pm1vatl0gTnbwxBetw1vvNaYdVXm0Z1QCbnlO8v0%2Busim%2B%2Fg4PJIWU%2FaMtksmbfq%2FRQKFAbj7zm90XJ9XX0mHYjaHrRx5SCZKKlUE2ljHIRrm0u5sFGiTRVYTBxBvWk9LNTE3WS1BNknH4LBJUa07mu2cIlKNDCK6j%2F%2FQZ1149Gy0gX6M2sBlh9izyzzZfqSNf2hjSr2xe030J%2ByuShA6cgK8yw%2FeK44Jo6tjDIrTRPhL1XdXPvxZ%2Ft7%2BdYbTa5HLIQ8%2BHmWbTnLbe34%2BQxM4vxfJpJHjpJ5ut%2BGGt3hLSTVNuKp1GhT6ioaK5m6EtSg5LGoiMkywlLcZRAhe96lfKX9Oz8Ex6eMoVU9hkTvEpBK2%2FxEuTbUMb6QDo6XWjAif0sW8BTKh431aPh6%2BoCw9qj%2Fly6ojEOuXBk5sfV0KDNeksWK8Hmk9%2BgcqlwPu1ITFgCZU6lo3p7tF3QEuEjL%2FDvwVZ4HAwXoZt6J9ooLPkYty8npXtrUHdCD%2BzN4GllLgK210pZr61q16m1tjDp187qjsAm2XRG4jGTk88XY561reiTi%2FywDzH0G--Sh7xNxSZj%2Fjcfg39--iAY92l25ZOueHqLHeDLWqg%3D%3D",
-            "expires": "2024-07-16T21:08:59.000Z",
-            "domain": "www.international-schools-database.com",
-            "path": "/",
-            "secure": true,
-            "httpOnly": true,
-            "hostOnly": true,
-            "creation": "2024-05-16T21:08:59.580Z",
-            "lastAccessed": "2024-05-16T21:08:59.580Z"
-          }
-        ]
+        "cookies": []
       },
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2024-05-16T21:58:57.876Z",
-      "createdAt": "2024-05-16T21:08:57.876Z",
+      "expiresAt": "2024-05-17T16:09:53.714Z",
+      "createdAt": "2024-05-17T15:19:53.714Z",
       "usageCount": 1,
       "maxUsageCount": 50,
-      "errorScore": 0
+      "errorScore": 1
     },
     {
-      "id": "session_KFr2ep43ZM",
+      "id": "session_oojwcvU60C",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-05-17T16:25:56.688Z",
+      "createdAt": "2024-05-17T15:35:56.688Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 2
+    },
+    {
+      "id": "session_abQiHFWeB8",
       "cookieJar": {
         "version": "tough-cookie@4.1.4",
         "storeType": "MemoryCookieStore",
@@ -146,23 +173,23 @@
         "cookies": [
           {
             "key": "_isd_session",
-            "value": "nweUcZX6rkkD5yAiRwGBCJ7s1KNIYc2AyS61LJeehy5s8GTtOoUcohFI8JLiiFke4%2FAbKkEfVrKoJTdU0E8WwChyVNPBbpy8xBo6x9ykHhEfgIMfcwDKgqnLS9UPPrUPXe3yO1lt2a2MnBiDdF7NrCDpkYuS4tm%2F%2B%2Fb8QboTUJB%2BhWwGUbunB%2FRDsNhqhft35bFGHfeMdYJFpas1RmQHGP9YNhDv%2BfkzjiG9iCLqjRm3HwDLwrqvYpNJKnwaaNtqG0wvoBd0Bbdf4hG4qpf9RKwHCgfPl0EPJZI%2BHMn%2BuhP7%2FlTJKbexEWkFvpGmeta4EE6zvXAROVcdecKb6TiiSdtdfwjtzRLUhBzTuW7qy9fzL2w7eK2RrG0IplkpkGE9CkD6xHO0FquStNd7sK4xAxmNma%2BZV0URJFEjUaJ%2F30%2FOntMQERcSFlh0%2BvwrIDk7Efd1LnR57mVG24bbsvB%2FFxrZiQK0W5zrr9vu8sVNkWWMVEwAdfzmTPrUs1WnipCesuautjNsXFhbSSCNBgoYoW30tsChmMdlby2yKA5b9C3NqOASum5ux6ozRtUr3akeuVrIIaIk3g0KsBrv9%2BEPA%2BeWM%2FLtk8Yxm3La4CLTgdzeYyvpKQnBeWMFQicGYLprhldsf4gzkt4vx6QLA%2FmQExIIn%2B7OQr2Ofxwlp7misW3k%2Bb%2FGukP20tnqneAAOn74nSyyUp5Ueay11%2BgoMGkM0fO9Fczxnia1A8Nio%2FeSRcHGZPcekevmOUhWqee4%2BxnAxl79zccaW0PzWb8w59AS%2Fu%2FVsFQuf2d9WknlHwqYYcZuKoj6jYIJSd7oHVBg7ROhkLWFnbPJEaI8Htc4QgiWuoCXlpc5hNpQwLP78rbIc2ntcXg%2BFwFoQXqv2AJJKZcAIH%2F%2BRRbntaUrCNpdta3X6mhqr5Y93W%2FGY1Uw0VblbvdlVZ8jBr%2BPpIeO15AbH75L1tiCVy9548yc3FaMK3MlGpLLOlTP2LRosSd58qK68za7X2AGvu0XdxiVAx5wLhpclM7sEjsytYDuCR7i5afIa5sUZEQbpw4DCHjbcvKdCOV0RkidDqg7lNo2iKKKNKTNxN2h1961HRihVojhsbCIQJno5zMGMIHGWHrAjjn7yEXavP3kPuVN1cMMcUFDSl2c03SwC6Ls0VXc3WskGjc5%2FbJjfZ3FnXt1bjJH5RNcCV6i%2B6hUPDKK%2B%2B7ACzUPXpFj34ikXcxK%2BjZadrkzXK5W12VGfnjWBaZWaxJhF0gy1hqhA%2FWjo8bw8JU52e7M%2BbSHJi%2BjfA6T8psy%2BTpu89rsDUswVxs%2FyxDs7sSgc3O5QfXeb4AMGFH8Mh%2B6arIBbJaeKhiI%2B%2FNgXhv%2FEt5CMZN%2BvSkeADR8nAO9vEsOAE594eXSZQ%2FU86zt8UHCmSXjAuU7Kz9YNTcJsPrV--Nuv2gV4oL6LPF3Ud--ocSia9EIDfMqMxIbjG9x2g%3D%3D",
-            "expires": "2024-07-16T21:19:11.000Z",
+            "value": "IzrzWBwKdn%2BrsSE%2BNEsbeY1zpbpuNsdUSW1xtqXPnIJnewwHL9fq1jQnfQhc0LtiVQW3qDcxC5rCemE%2BUR33HnQPe7NIy18lU4sj3o2GeE%2BqeSUi8TpL781x1tK%2F7%2BvIxv3j2H3oF%2FvtLPgsmlCgBkO4G5okvjegz6SUxGUqnG%2BhvZ9DEVP9emFZpkU%2Fbpj0wuCpxkLNqp9fzQbrBf0rutwI%2Bs1u6GcOBOYndivTtAyTkFN%2FYJ1qm4Sk8xrUMEbydF6RYcwuqaREfo%2Bl5%2BNhrG8v6AOpRGKF5KZXrVEKmMYoGVUZK1iv5Hk%2BSXrQHrnWAlc05hAP4T7ImNUNJG%2FYYDbWwdYwImubBRjzK1mZJBp2Q5%2FETn6OflrPZvg9qGNTvGK5PfjAKHkgh3l8Bsh1hKdBafXiDWAEHINn%2BfoYi2Isj2FEdBxjluD02%2BI1fEWkKKFxb8tbp5zjyw%2FWLJoChlV6C580viw5tbqHD45zcDJQgMzUQMN%2BDBsloYI9W5L0TTQ%2BBZMMhmWgBVphsR%2BGiOhMoZ0XKyQfEaVJdBuqjL4%2BNMnUkhBntdSnDfI8S3T4DSdBReXyR1WD5dypU%2B885UojjmZb%2BlBjAolbLz3ynV20VCZlLGIQSJSoAvyvysNYvDzajuymehtzYHdiuKYt9k7xpUMeWP%2FvLhUyTOsJWIxEBfKaLqXD1rzaigFxAas9vJKn1C1nC39eO60sXceTIInMsFut%2FMGXxy4nhD2kLqAhJ27wFqJFjH5%2BWbEecU6tbvvRwmOizKDCUNXSUSD%2B2xDh7LYqaEvWJ61f64UQ3MWy4GWz0OOcfafo%2FBz2UPnlxplxe4%2BCWDwkgi0F5yhSMF1PSZRRecwf8s%2F1NXJF7zJXpvhSQvl8HitA7e9GenktaZ8TCNudjc7YHElLPOO0Sxr9PPCh0iYAZgjw3088HjZ2VA9qQPLGWoA1HQKnIkUqaFQ2tmYWg2Ia5rQpd0cQ%2FWlOJZaRg9zQHRTFJ4IQXrQnqoPEAWnKuvXdhO7ZUWNGtOkhqOnbDgI%2Fh21MXj%2FxisyYQYzrIXNv1h0a9s6V7QkTP8kGYPdkL8Pzakh%2BFhT%2FsYr2NsdRAzrxbhHMGU1W26xMWBtUlKGP9Cjm4%2BLpAaJatgdYtsEUIhk%2BsUj1IjtsBZVRZhiaAK1wt%2FH%2Bs5AAt7apEO%2BKS5Gkwik6dABBVwTs5sxopPv7gElyMOEe8E20cFYZ9CxZRBlblCEkosKNI5cnmYQSBs1UXOvI7Nr5ciUzW5St%2F1PpvVR51LObDYJjA9xlFf7IqFOqHr9BdXkfnQtcHmCUaDmf1GFT4bRWHHPxpMjriGvcQxGsi%2FCAz5tkel3euExWFF83jR7tHNHJ68tKqkfeQDZUGmQ%2FuXtFYIWdOeLFHNT%2B0jmLNrXVWgn5gWah05RI1fbV--tP9goWwWlXMT%2BiCM--cL%2Fsxk5VMxi0rqTBdqa7aw%3D%3D",
+            "expires": "2024-07-17T15:52:40.000Z",
             "domain": "www.international-schools-database.com",
             "path": "/",
             "secure": true,
             "httpOnly": true,
             "hostOnly": true,
-            "creation": "2024-05-16T21:19:11.858Z",
-            "lastAccessed": "2024-05-16T21:19:11.858Z"
+            "creation": "2024-05-17T15:52:43.908Z",
+            "lastAccessed": "2024-05-17T15:52:43.908Z"
           }
         ]
       },
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2024-05-16T22:09:09.685Z",
-      "createdAt": "2024-05-16T21:19:09.685Z",
+      "expiresAt": "2024-05-17T16:42:37.394Z",
+      "createdAt": "2024-05-17T15:52:37.394Z",
       "usageCount": 1,
       "maxUsageCount": 50,
       "errorScore": 0

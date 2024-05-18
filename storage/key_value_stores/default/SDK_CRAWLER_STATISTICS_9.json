@@ -1,27 +1,61 @@
 {
-  "requestsFinished": 1,
-  "requestsFailed": 0,
-  "requestsRetries": 0,
+  "requestsFinished": 0,
+  "requestsFailed": 1,
+  "requestsRetries": 1,
   "requestsFailedPerMinute": 0,
-  "requestsFinishedPerMinute": 4,
-  "requestMinDurationMillis": 5328,
-  "requestMaxDurationMillis": 5328,
-  "requestTotalFailedDurationMillis": 0,
-  "requestTotalFinishedDurationMillis": 5328,
-  "crawlerStartedAt": "2024-05-16T13:29:15.360Z",
-  "crawlerFinishedAt": "2024-05-16T13:29:30.754Z",
-  "statsPersistedAt": "2024-05-16T13:29:30.754Z",
-  "crawlerRuntimeMillis": 15414,
-  "crawlerLastStartTimestamp": 1715866155340,
+  "requestsFinishedPerMinute": 0,
+  "requestMinDurationMillis": null,
+  "requestMaxDurationMillis": 0,
+  "requestTotalFailedDurationMillis": 30027,
+  "requestTotalFinishedDurationMillis": 0,
+  "crawlerStartedAt": "2024-05-17T14:23:53.118Z",
+  "crawlerFinishedAt": "2024-05-17T14:26:42.403Z",
+  "statsPersistedAt": "2024-05-17T14:26:42.403Z",
+  "crawlerRuntimeMillis": 169322,
+  "crawlerLastStartTimestamp": 1715955833081,
   "requestRetryHistogram": [
+    null,
+    null,
+    null,
+    null,
+    null,
     1
   ],
   "statsId": 9,
-  "requestAvgFailedDurationMillis": null,
-  "requestAvgFinishedDurationMillis": 5328,
-  "requestTotalDurationMillis": 5328,
+  "requestAvgFailedDurationMillis": 30027,
+  "requestAvgFinishedDurationMillis": null,
+  "requestTotalDurationMillis": 30027,
   "requestsTotal": 1,
   "requestsWithStatusCode": {},
-  "errors": {},
-  "retryErrors": {}
+  "errors": {
+    "file:///Users/zhangbo/Desktop/paopao/crawl-international-school/node_modules/.pnpm/got@13.0.0/node_modules/got/dist/source/core/index.js:792:61": {
+      "ETIMEDOUT": {
+        "TimeoutError": {
+          "Timeout awaiting 'request' for 30000ms": {
+            "count": 1
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "/Users/zhangbo/Desktop/paopao/crawl-international-school/node_modules/.pnpm/@apify+timeout@0.3.1/node_modules/@apify/src/index.ts:88:74": {
+      "missing error code": {
+        "Error": {
+          "request timed out after 30 seconds.": {
+            "count": 4
+          }
+        }
+      }
+    },
+    "file:///Users/zhangbo/Desktop/paopao/crawl-international-school/node_modules/.pnpm/got@13.0.0/node_modules/got/dist/source/core/index.js:792:107": {
+      "HTTP2WRAPPER_NOSETTINGS": {
+        "RequestError": {
+          "Session closed without receiving a SETTINGS frame": {
+            "count": 1
+          }
+        }
+      }
+    }
+  }
 }
