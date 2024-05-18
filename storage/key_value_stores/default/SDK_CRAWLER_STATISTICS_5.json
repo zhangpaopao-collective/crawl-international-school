@@ -1,27 +1,52 @@
 {
-  "requestsFinished": 1,
-  "requestsFailed": 0,
-  "requestsRetries": 0,
+  "requestsFinished": 0,
+  "requestsFailed": 1,
+  "requestsRetries": 1,
   "requestsFailedPerMinute": 0,
-  "requestsFinishedPerMinute": 18,
-  "requestMinDurationMillis": 3182,
-  "requestMaxDurationMillis": 3182,
-  "requestTotalFailedDurationMillis": 0,
-  "requestTotalFinishedDurationMillis": 3182,
-  "crawlerStartedAt": "2024-05-17T09:45:54.456Z",
-  "crawlerFinishedAt": "2024-05-17T09:45:57.702Z",
-  "statsPersistedAt": "2024-05-17T09:45:57.702Z",
-  "crawlerRuntimeMillis": 3267,
-  "crawlerLastStartTimestamp": 1715939154435,
+  "requestsFinishedPerMinute": 0,
+  "requestMinDurationMillis": null,
+  "requestMaxDurationMillis": 0,
+  "requestTotalFailedDurationMillis": 30020,
+  "requestTotalFinishedDurationMillis": 0,
+  "crawlerStartedAt": "2024-05-17T13:40:19.504Z",
+  "crawlerFinishedAt": "2024-05-17T13:43:35.394Z",
+  "statsPersistedAt": "2024-05-17T13:43:35.394Z",
+  "crawlerRuntimeMillis": 195915,
+  "crawlerLastStartTimestamp": 1715953219479,
   "requestRetryHistogram": [
+    null,
+    null,
+    null,
+    null,
+    null,
     1
   ],
   "statsId": 5,
-  "requestAvgFailedDurationMillis": null,
-  "requestAvgFinishedDurationMillis": 3182,
-  "requestTotalDurationMillis": 3182,
+  "requestAvgFailedDurationMillis": 30020,
+  "requestAvgFinishedDurationMillis": null,
+  "requestTotalDurationMillis": 30020,
   "requestsTotal": 1,
   "requestsWithStatusCode": {},
-  "errors": {},
-  "retryErrors": {}
+  "errors": {
+    "/Users/zhangbo/Desktop/paopao/crawl-international-school/node_modules/.pnpm/@apify+timeout@0.3.1/node_modules/@apify/src/index.ts:88:74": {
+      "missing error code": {
+        "Error": {
+          "request timed out after 30 seconds.": {
+            "count": 1
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "/Users/zhangbo/Desktop/paopao/crawl-international-school/node_modules/.pnpm/@apify+timeout@0.3.1/node_modules/@apify/src/index.ts:88:74": {
+      "missing error code": {
+        "Error": {
+          "request timed out after 30 seconds.": {
+            "count": 5
+          }
+        }
+      }
+    }
+  }
 }

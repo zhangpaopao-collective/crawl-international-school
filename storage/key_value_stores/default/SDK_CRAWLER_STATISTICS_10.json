@@ -1,38 +1,27 @@
 {
   "requestsFinished": 1,
   "requestsFailed": 0,
-  "requestsRetries": 1,
+  "requestsRetries": 0,
   "requestsFailedPerMinute": 0,
-  "requestsFinishedPerMinute": 3,
-  "requestMinDurationMillis": 1980,
-  "requestMaxDurationMillis": 1980,
+  "requestsFinishedPerMinute": 2,
+  "requestMinDurationMillis": 25347,
+  "requestMaxDurationMillis": 25347,
   "requestTotalFailedDurationMillis": 0,
-  "requestTotalFinishedDurationMillis": 1980,
-  "crawlerStartedAt": "2024-05-17T10:36:09.726Z",
-  "crawlerFinishedAt": "2024-05-17T10:36:32.904Z",
-  "statsPersistedAt": "2024-05-17T10:36:32.904Z",
-  "crawlerRuntimeMillis": 23199,
-  "crawlerLastStartTimestamp": 1715942169705,
+  "requestTotalFinishedDurationMillis": 25347,
+  "crawlerStartedAt": "2024-05-17T14:36:42.419Z",
+  "crawlerFinishedAt": "2024-05-17T14:37:07.830Z",
+  "statsPersistedAt": "2024-05-17T14:37:07.830Z",
+  "crawlerRuntimeMillis": 25448,
+  "crawlerLastStartTimestamp": 1715956602382,
   "requestRetryHistogram": [
-    null,
     1
   ],
   "statsId": 10,
   "requestAvgFailedDurationMillis": null,
-  "requestAvgFinishedDurationMillis": 1980,
-  "requestTotalDurationMillis": 1980,
+  "requestAvgFinishedDurationMillis": 25347,
+  "requestTotalDurationMillis": 25347,
   "requestsTotal": 1,
   "requestsWithStatusCode": {},
   "errors": {},
-  "retryErrors": {
-    "file:///Users/zhangbo/Desktop/paopao/crawl-international-school/node_modules/.pnpm/got@13.0.0/node_modules/got/dist/source/core/index.js:792:107": {
-      "ETIMEDOUT": {
-        "RequestError": {
-          "read ETIMEDOUT": {
-            "count": 1
-          }
-        }
-      }
-    }
-  }
+  "retryErrors": {}
 }
